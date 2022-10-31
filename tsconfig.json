@@ -3,7 +3,7 @@
     "target": "ES5",
     "lib": ["DOM", "ES2015", "ES2016", "ES2017"],
 
-    "outDir": "./public",
+    "outDir": "docs",
 
     "forceConsistentCasingInFileNames": true,
 
